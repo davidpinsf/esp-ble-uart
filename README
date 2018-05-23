@@ -1,0 +1,16 @@
+ESP BLE Uart for esd-idf projects.
+
+A fork of the espressif/arduino-esp32/BLE based on the Instructables how to by
+arduinofanboy. (His is a fork of the BLE_uart example of nkolban)
+
+The idea is to integrate it into a esp-idf build environment so it can be
+instantiated by a esp-ipf based project.
+
+This is a beginner project to add the BLE functionality to my non-arduino
+based development environment. May evolve to just reference the arduino-esp
+layer.
+
+Hosting for my convience at:
+https://github.com/davidpinsf/esp-ble-uart
+
+More TBD.
